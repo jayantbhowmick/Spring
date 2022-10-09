@@ -1,12 +1,7 @@
-//============================================================================
-// Name        : knapsack.cpp
-// Author      : Koushal Bhat
-// Roll no.    : 33332
-// batch       : L11
-// Subject     : LP 
-//============================================================================
+
 
 #include<bits/stdc++.h>
+#include <iostream>
 using namespace std;
 class item_struct{
       public:
